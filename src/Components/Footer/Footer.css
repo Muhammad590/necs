@@ -1,0 +1,140 @@
+.fotter_main{
+    background: #000000;
+    box-shadow: 0px 1px 6px rgba(0, 0, 0, 0.25);
+    padding-top: 44px;
+    
+}
+.fotter_mainone{
+    display: flex;
+
+}
+.footer_one{
+    width: 33%;
+}
+.fotter_row{
+    margin: 0px;
+}
+.col_footer{
+    padding: 0px;
+}
+.foter_img{
+    margin-left: 35px;
+}
+.foter_oneinner{
+    font-family: 'Nunito';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 129.4%;
+text-align: justify;
+color: #FFFFFF;
+margin-left: 45px;
+}
+.footer_two{
+display: flex;
+width: 33%;
+justify-content: space-evenly;
+
+}
+
+.footer_link{
+    font-family: 'Nunito';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 24px;
+text-transform: capitalize;
+color: #FFFFFF;
+flex: none;
+order: 1;
+flex-grow: 0;
+cursor: pointer;
+margin-bottom: 15px;
+}
+.footer_link:hover{
+    color: #BC071D;
+}
+.fotter_threeinner{
+    font-family: 'Nunito';
+font-style: normal;
+font-weight: 700;
+font-size: 20.6px;
+line-height: 28px;
+color: #FFFFFF;
+margin-bottom: 11px;
+}
+.inputfiled_three{
+    width: 287px;
+height: 53px;
+padding-left: 25px;
+background: #FFFFFF;
+box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.25);
+border-radius: 37px;
+border: none;
+font-family: 'Hind';
+font-style: normal;
+font-weight: 400;
+font-size: 18.6px;
+line-height: 30px;
+color: #A4A4A4;
+margin-right: 13px;
+}
+.Submit_fotterbtn{
+    width: 144px;
+height: 52.81px;
+background: #BC071D;
+box-shadow: 0px 3.38298px 4.51064px rgba(188, 7, 29, 0.35);
+border-radius: 28.1915px;
+font-family: 'Nunito';
+font-style: normal;
+font-weight: 700;
+font-size: 20.2979px;
+line-height: 28px;
+color: #FFFFFF;
+flex: none;
+order: 0;
+flex-grow: 0;
+border: white;
+}
+.fotter_divinnerthree{
+    display: flex;
+    justify-content: end;
+}
+.div_three{
+    margin-right: 45px;
+}
+.icons_footer{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 41px 0px;
+
+
+}
+.icons_footerinner{
+display: flex;
+align-items: center;
+justify-content: center;
+gap: 10px;
+width: 52px;
+height: 52px;
+border: 1px solid #FFFFFF;
+border-radius: 33px;
+cursor: pointer;
+}
+.icons_height{
+    height: 20px;
+    width: 20px;
+    color: white;
+}
+.fotter_end{
+    text-align: center;
+    font-family: 'Nunito';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 19px;
+color: #FFFFFF;
+padding-bottom: 15px;
+margin: 0px;
+}

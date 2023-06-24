@@ -1,0 +1,47 @@
+.main_navbar{
+    height: 75px;
+    background: #FFFFFF;
+box-shadow: 0px 1px 6px rgba(0, 0, 0, 0.25);
+padding: 0px;
+}
+.logo{
+    margin-left: 35px;
+}
+.link_div{
+    justify-content: end;
+}
+.navbar_linkitem{
+    align-items: center;
+}
+.navbar_links{
+    padding: 0px !important;
+    margin-right: 28px;
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 25px;
+    color: #000000;
+}
+.navbar_links:hover{
+    color: #BC071D;
+    
+}
+.donate_button{
+    margin: 0px 45px 0px 75px;
+    width: 116px;
+height: 47px;
+background: #BC071D;
+box-shadow: 0px 3px 4px rgba(188, 7, 29, 0.35);
+border-radius: 25px;
+border: white;
+font-family: 'Nunito';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 25px;
+color: #FFFFFF;
+}
+.link_donate{
+    text-decoration: none;
+}

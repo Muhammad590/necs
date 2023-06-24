@@ -1,0 +1,96 @@
+.pad_row{
+    padding: 0px;
+    margin: 0px;
+}
+.st_colprogram{
+margin-top: 58px;
+}
+.program_para{
+    font-family: 'Nunito';
+font-style: normal;
+font-weight: 700;
+font-size: 30px;
+line-height: 41px;
+color: #BC071D;
+}
+.program_paraone{
+    font-family: 'Nunito';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 33px;
+color: #000000;
+}
+.program_imgDiv{
+margin-top: 35px;
+}
+.programimg{
+    width: 100%;
+    margin-bottom: 66px;
+}
+.check_portionmainDiv{
+display: flex;
+
+}
+.check_portionone{
+    background: #BC071D;
+box-shadow: 0px 0px 12px rgba(0, 0, 0, 0.25);
+border-radius: 23px;
+/* width: 421px;
+height: 130px; */
+display: flex;
+}
+.whiteportion{
+    margin: 0px 40px;
+}
+.check_loem{
+    font-family: 'Nunito';
+font-style: normal;
+font-weight: 800;
+font-size: 20px;
+line-height: 110.9%;
+/* or 22px */
+margin-top: 12px;
+margin-bottom: 8px;
+
+
+color: #FFFFFF;
+}
+.check_loemwhite{
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 20px;
+    line-height: 110.9%;
+    color: #000000;
+    margin-top: 12px;
+    margin-bottom: 8px;
+}
+.check_loempara{
+    font-family: 'Nunito';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 118.9%;
+color: #FFFFFF;
+}
+.check_loemparawhite{
+    font-family: 'Nunito';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 118.9%;
+/* or 18px */
+
+
+color: #000000;
+}
+.checkImgdiv{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.checkImg{
+    height: 112px;
+    width: 112px;
+}

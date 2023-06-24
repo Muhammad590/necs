@@ -1,0 +1,195 @@
+.about_mainDiv{
+    margin-top: 51px;
+    position: relative;
+}
+
+.about_firstpara{
+    font-family: 'Nunito';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 33px;
+text-align: justify;
+margin-top: 28px;
+color: #000000;
+}
+.donate_aboutimg{
+    width: 575px;
+    height: 565px;
+    /* position: absolute; */
+}
+.rec_aboutimg{
+    width: 277.5px;
+height: 603px;
+position: absolute;
+left: 26.5%;
+    top: -3%;
+}
+.ncspartnermainDiv{
+    background: #BC071D;
+border-radius: 29px;
+height: 120px;
+width: 100%;
+}
+.ncspartnermainDiv{
+    margin-top: 66px;
+}
+.ncspartner{
+    font-family: 'Nunito';
+font-style: normal;
+font-weight: 800;
+font-size: 29.68px;
+line-height: 40px;
+margin-bottom: 12px;
+padding-top: 14px;
+color: #FFFFFF;
+text-align: center;
+}
+.aboutvDiv{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.about3rdportionDiv{
+  /* margin: 66px 6px 10px 5px; */
+}
+.about3rdportionhead{
+    font-family: 'Nunito';
+font-style: normal;
+font-weight: 700;
+font-size: 30px;
+line-height: 41px;
+text-align: center;
+margin: 66px 6px 10px 5px;
+color: #BC071D;
+}
+
+.about3rdportionpara{
+    font-family: 'Nunito';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 33px;
+text-align: center;
+color: #000000;
+margin-bottom: 66px;
+}
+.fourthportionDiv{
+margin-bottom: 66px;
+height: 661px;
+background: #BC071D;
+border-radius: 20px
+}
+.forth_portionpara{
+    font-family: 'Nunito';
+font-style: normal;
+font-weight: 500;
+font-size: 32px;
+line-height: 102.9%;
+text-align: center;
+color: #FFFFFF;
+/* padding-top: 57px; */
+width: 459px;
+margin: auto;
+padding: 57px 20px 0px 20px;
+}
+
+.cardfourthportionDiv{
+    background: #FFFFFF;
+box-shadow: 0px 0px 12px rgba(0, 0, 0, 0.25);
+border-radius: 23px;
+height: 407px;
+width: 333px;
+}
+
+.checkImg{
+text-align: center;
+}
+.aboutCardsDivflex{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 22px;
+}
+.diveide{
+    margin-top: 36px;
+}
+.checkhead{
+    font-family: 'Nunito';
+font-style: normal;
+font-weight: 800;
+font-size: 22px;
+line-height: 117.4%;
+text-align: center;
+color: #222222;
+margin: 0px 42px 14px 42px ;
+}
+
+.checkImgdiv{
+  text-align: center;
+}
+.checkpara{
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 129.4%;  
+    text-align: center;
+    color: #333333; 
+}
+
+
+.fifthloremmainDiv{
+background-image: url("../../Images/ncs.png");
+background-repeat: no-repeat;
+/* background-attachment: fixed; */
+}
+.fifthloremhead{
+    
+font-family: 'Nunito';
+font-style: normal;
+font-weight: 800;
+font-size: 32px;
+line-height: 44px;
+text-align: justify;
+color: #BC071D;
+}
+.fifthloremhed{
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 44px;  
+    text-align: justify;  
+    color: #222222; 
+}
+
+.fifthlorepara{
+    font-family: 'Nunito';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 125.9%;
+color: #070707;
+}
+
+.ineer_seventh{
+    margin-top: 66px;
+    margin-bottom: 66px;
+}
+
+
+
+
+
+
+@media screen and (min-width:1500px) {
+    .rec_aboutimg{
+        width: 277.5px;
+    height: 603px;
+    position: absolute;
+    left: 17.5%;
+        top: -3%;
+        
+    }
+  
+}

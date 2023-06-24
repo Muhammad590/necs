@@ -1,0 +1,151 @@
+.Home_maindiv{
+    margin: 17px 45px 0px 45px;
+}
+.firstdiv_home{
+    height: 190px;
+    background: #BC071D;
+    border-radius: 41px; 
+    display: flex;
+}
+.lorem_mainHomepara{
+    font-family: 'Nunito';
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 117.4%;
+color: #FFFFFF;
+width: 573px;
+margin-top: 26px;
+}
+.line_div{
+    padding-left: 30px;
+    padding-top: 51.64px;
+
+}
+.line-imgg{
+    padding-left: 25px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.home_row{
+    padding: 0px;
+    margin: 0px;
+}
+.lorem_homescnd{
+    font-family: 'Nunito';
+font-style: normal;
+font-weight: 600;
+font-size: 32px;
+line-height: 117.4%;
+color: #222222;
+margin-top: 50px;
+width: 478px;
+}
+.lorem_homescndred{
+
+    color: #BC071D;
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 117.4%;
+    
+}
+.home_righttext{
+    margin-left: 74px;
+}
+.lorem_homepara{
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 129.4%;
+text-align: justify; 
+    color: #333333; 
+    width: 478px;
+}
+.lorem_btnhome{
+   
+    width: 172.34px;
+height: 53.28px;
+background: #BC071D;
+box-shadow: 0px 3.44681px 4.59574px rgba(188, 7, 29, 0.35);
+border-radius: 28.7234px;
+font-family: 'Nunito';
+font-style: normal;
+font-weight: 700;
+font-size: 20.6809px;
+line-height: 28px;
+color: #FFFFFF;
+flex: none;
+order: 0;
+flex-grow: 0;
+border: none;
+cursor: pointer;
+}
+.homeloimg{
+    width: 100%;
+}
